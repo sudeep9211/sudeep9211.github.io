@@ -70,14 +70,14 @@ div{
 }
 .top-cloud{
     position: relative;
-    left: 30%;
+    left: 400px;
     padding-top: 40px;
     
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 15%;
+    left: 250px;
 }
 
 .pic{
