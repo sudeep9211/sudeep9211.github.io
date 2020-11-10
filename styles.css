@@ -60,6 +60,7 @@ div{
 .bottom-container{
    background-color: #66bfbf;
    padding: 50px 0 20px;
+   font-size: 22px; 
 }
 .skill-row{
     width: 50%;
@@ -70,14 +71,14 @@ div{
 }
 .top-cloud{
     position: relative;
-    left: 400px;
+    left: 28%;
     padding-top: 40px;
     
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 250px;
+    left: 15%;
 }
 
 .pic{
